@@ -3,7 +3,7 @@
 <h3 align="center">A Web Dev From Pakistan</h3>
 <br>
 <img align="right" alt="Coding" width="350" src="./img/giphy.gif">
-<br>
+
 
 - 🔭 I’m currently working on [15 projects from panacloud.](https://github.com/panacloud/bootcamp-2020)
 
