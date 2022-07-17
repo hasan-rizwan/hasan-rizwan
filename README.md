@@ -1,21 +1,14 @@
 [![MasterHead](./img/banner.gif)](hasan-portfolio.web.app/)
 <h1 align="center">👋 It's hasan</h1>
 <h3 align="center">A Web Dev From Pakistan</h3>
-<br>
-<img align="right" alt="Coding" width="350" src="./img/giphy.gif">
+<p>&nbsp;</p>
+<h4 align='center'>I’m currently working on</h4>
 
+<p align='center'><a href="https://github.com/panacloud/bootcamp-2020">📂 15 projects by panacloud</a></p>
+<p align='center'>🔥 bettering myself in the MERN STACK</p>
+<p align='center'>📫 reach me on hasanrizwan6@gmail.com</p>
+<p align='center'>💬 Ask me about the frontend and the reason why you and I exist.</p>
 
-- 🔭 I’m currently working on [15 projects from panacloud.](https://github.com/panacloud/bootcamp-2020)
-
-- 🌱 I’m currently getting **my hands dirty in MERN Stack**
-
-- 💬 Ask me about **the frontend and the reason why you and I exist.**
-
-- 📫 How to reach me **hasanrizwan6@gmail.com**
-
-- ⚡ Fun fact **Saying Goodbye to video games after a decade of playing them, was the reason why I wanted be a web dev xD**
-
-<br>
 <br>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
