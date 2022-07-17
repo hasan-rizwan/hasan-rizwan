@@ -1,4 +1,8 @@
-[![MasterHead](./img/banner.gif)](hasan-portfolio.web.app/)
+<p align="center">
+<a href="hasan-portfolio.web.app/">
+  <img src="./img/banner.gif"/>
+</a>
+</p>
 <h1 align="center">👋 It's hasan</h1>
 <h3 align="center">A Web Dev From Pakistan</h3>
 <p>&nbsp;</p>
