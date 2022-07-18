@@ -102,6 +102,7 @@ https://user-images.githubusercontent.com/64814635/179628034-0ff3d229-75f4-4256-
 </p>
 <p><strong>React</strong> - A fancy looking calculator that can perform all the basic operations.</p>
 <br>
+<br>
 </div>
 </table>
 
