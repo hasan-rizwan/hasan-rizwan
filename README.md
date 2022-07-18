@@ -20,7 +20,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center" color="white">Text Utility</h2>
+<h3 align="center" color="white">Text Utility</h3>
 <div align="center" >  
 <a href='http://text-utility-by-hasan.surge.sh/'> 
 </a>
@@ -30,76 +30,78 @@
 <br>
 <br>
 <p>
-  <a href="https://github.com/leahthompson01/ACNH-Generator" target="_blank">
+  <a href="https://github.com/hasan-rizwan/TextUtility" target="_blank">
   
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
     
-<a href="https://animal-crossing-app.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+<a href="http://text-utility-by-hasan.surge.sh/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0047e6"/>
 </a>
 </p>
-<p><strong>JavaScript, CSS3, HTML5</strong> - Created a vanilla JavaScript application using data from an API. You are able to generate a new Animal Crossing villager by clicking on the button. This info is displayed on a playing card.</p>
+<p><strong>React</strong> - An application that can manipulate your text in different ways, has a word and character counter. In addition to that, it has dark mode as well</p>
 </div>
   
-  <h3 align="center" color="white">MarioKart Racer Picker</h2>
-<div align="center" >  
-<a href='https://leahthompson01.github.io/MarioKart/'> 
+<h3 align="center" color="white">Nike Clone</h3>
+<div align="center" >
+<a href='https://github.com/hasan-rizwan/Nike-Clone'>
 </a>
   
-https://user-images.githubusercontent.com/97814431/168461641-a5d57957-96ae-4880-9944-89077f5c90de.mp4
+https://user-images.githubusercontent.com/64814635/179627275-924f632f-c2d6-4f95-b9dd-b704d2dbb740.mp4
   
 <br>
 <br>
 <p>
-  <a href="https://github.com/leahthompson01/MarioKart" target="_blank">
+  <a href="https://github.com/hasan-rizwan/Nike-Clone" target="_blank">
   
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
     
-<a href="https://leahthompson01.github.io/MarioKart/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+<a href="http://nike-clone.surge.sh/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0047e6"/>
 </a>
 </p>
-<p><strong>JavaScript, CSS3, HTML5</strong> - In this project, you can switch between mariokart racers by clicking on them. When clicked, a gif of that racer will play!</p>
+<p><strong>React</strong> - A nike clone to implement react router. It navigates you through a collection of shoes and shows the details when navigated</p>
+<br>
 </div>
 </td>
 <td width="50%">
-<h3 align="center" color="white">Capital Hack</h2>
+<h3 align="center" color="white">Covid 19 Tracker</h3>
 <div align="center" >  
-<a href='https://raissa-k.github.io/TECHTOGETHER-HACK/index.html'>
+<a href='https://github.com/hasan-rizwan/Covid-19-Tracker'>
 </a>
  
-https://user-images.githubusercontent.com/97814431/168461352-2769d13c-7079-4a4b-8916-1c19bb1b5243.mp4
+https://user-images.githubusercontent.com/64814635/179624603-911c45c7-0d20-4fcd-899b-70cdd7c5c120.mp4
   
 <br>
 <br>
 <p>
-<a href="https://github.com/raissa-k/TECHTOGETHER-HACK" target="_blank">
+<a href="https://github.com/hasan-rizwan/Covid-19-Tracker" target="_blank">
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
 </a>  
-<a href="https://raissa-k.github.io/TECHTOGETHER-HACK/index.html" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+<a href="http://covid-tracker-by-hasan.surge.sh/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0047e6"/>
 </a>
 </p>
-<p><strong>JavaScript, HTML5, CSS3</strong> - Completed for a hackathon, this website is not only responsive and fully accessible. It also includes calculators to accurately estimate how much money is in your 401k or 403b account.</p>
+<p><strong>React</strong> - In this tracker, there's a detailed chart that shows the amount of people that got infected, recovered and died globally or country specific.</p>
 </div>
-  <h3 align="center" color="white">Above the Horizon</h2>
+  <h3 align="center" color="white">Calculator</h2>
 <div align="center" >  
-<a href='https://leahthompson01.github.io/UpdatedSpace/index.html'>
+<a href='https://github.com/hasan-rizwan/Calculator'>
 </a>
  
-https://user-images.githubusercontent.com/97814431/168459317-a08e1dcf-9335-4331-947b-b63722c42e64.mp4
+https://user-images.githubusercontent.com/64814635/179628034-0ff3d229-75f4-4256-ab2d-b4c12fe8dfc9.mp4
   
 <br>
 <br>
 <p>
-<a href="https://github.com/leahthompson01/UpdatedSpace" target="_blank">
+<a href="https://github.com/hasan-rizwan/Calculator" target="_blank">
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
 </a>  
-<a href="https://leahthompson01.github.io/UpdatedSpace/index.html" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+<a href="calculator-by-hasan.surge.sh" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0047e6"/>
 </a>
 </p>
-<p><strong>JavaScript, HTML5, CSS3</strong> - Completed as a team of four during a hackathon. This project won best space hack! Miami residents can use this app to learn more about the Florida space scene.</p>
+<p><strong>React</strong> - A fancy looking calculator that can perform all the basic operations.</p>
+<br>
 </div>
 </table>
 
