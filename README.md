@@ -96,7 +96,7 @@ https://user-images.githubusercontent.com/64814635/179628034-0ff3d229-75f4-4256-
 <a href="https://github.com/hasan-rizwan/Calculator" target="_blank">
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
 </a>  
-<a href="calculator-by-hasan.surge.sh" target="_blank">
+<a href="http://calculator-by-hasan.surge.sh/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0047e6"/>
 </a>
 </p>
