@@ -10,8 +10,8 @@
 
 <p align='center'><a href="https://github.com/panacloud/bootcamp-2020">📂 15 projects by panacloud</a></p>
 <p align='center'>🔥 bettering myself in the MERN STACK</p>
-<p align='center'>📫 reach me on hasanrizwan6@gmail.com</p>
-<p align='center'>💬 Ask me about the frontend and the reason why you and I exist.</p>
+<p align='center'>📫 Have a meeting with me on <a href="https://calendly.com/hasanrizwan/meeting-with-hasan-rizwan-dev">Calendly</a> | hasanrizwan6@gmail.com</p>
+<p align='center'>💬 Ask me about the MERN Stack and the reason why you and I exist.</p>
 
 <br>
 
