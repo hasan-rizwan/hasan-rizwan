@@ -110,9 +110,8 @@ https://user-images.githubusercontent.com/64814635/179628034-0ff3d229-75f4-4256-
   
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://twitter.com/hasan_alpha" target="blank"><img align="center" src="./img/twitter.svg" alt="hasan_alpha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hasan-sheikh6" target="blank"><img align="center" src="./img/linked-in-alt.svg" alt="hasan-sheikh6" height="30" width="40" /></a>
-<a href="https://instagram.com/a.boi_tkd" target="blank"><img align="center" src="./img/instagram.svg" alt="a.boi_tkd" height="30" width="40" /></a>
+<a href="https://twitter.com/hasan_rizwan6" target="blank"><img align="center" src="./img/twitter.svg" alt="hasan_alpha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hasan-rizwan6" target="blank"><img align="center" src="./img/linked-in-alt.svg" alt="hasan-sheikh6" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hasanrizwan" target="blank"><img align="center" src="./img/hackerrank.svg" alt="hasanrizwan" height="30" width="40" /></a>
 <a href="https://discord.gg/#0382" target="blank"><img align="center" src="./img/discord.svg" alt="#0382" height="30" width="40" /></a>
 </p>
