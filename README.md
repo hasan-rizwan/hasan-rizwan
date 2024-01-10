@@ -81,7 +81,7 @@ https://github.com/hasan-rizwan/hasan-rizwan/assets/64814635/0d28c7e8-2c6a-42bc-
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0047e6"/>
 </a>
 </p>
-<p><strong>React</strong> - In this tracker, there's a detailed chart that shows the amount of people that got infected, recovered and died globally or country specific.</p>
+<p><strong>React</strong> - nt of people that got infected, recovered and died globally or country specific.</p>
 </div>
   <h3 align="center" color="white">Calculator</h2>
 <div align="center" >  
