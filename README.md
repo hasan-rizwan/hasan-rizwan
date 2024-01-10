@@ -20,27 +20,6 @@
 <table>
 <tr>
 <td width="50%">
-     <h3 align="center" color="white">Calculator</h2>
-<div align="center" >  
-<a href='https://github.com/hasan-rizwan/Calculator'>
-</a>
- 
-https://user-images.githubusercontent.com/64814635/179628034-0ff3d229-75f4-4256-ab2d-b4c12fe8dfc9.mp4
-  
-<br>
-<br>
-<p>
-<a href="https://github.com/hasan-rizwan/Calculator" target="_blank">
-<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-</a>  
-<a href="https://calculator-by-hasan.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0047e6"/>
-</a>
-</p>
-<p><strong>React</strong> - A fancy-looking calculator that can perform all the basic operations.</p>
-<br>
-<br>
-</div>
 <h3 align="center" color="white">Text Utility</h3>
 <div align="center" >  
 <a href='https://text-utility-by-hasan.netlify.app/'> 
@@ -60,6 +39,28 @@ https://user-images.githubusercontent.com/64814635/179628034-0ff3d229-75f4-4256-
 </a>
 </p>
 <p><strong>React</strong> - An application that can manipulate your text in different ways, has a word and character counter. In addition to that, it has dark mode as well</p>
+</div>
+  
+<h3 align="center" color="white">Nike Clone</h3>
+<div align="center" >
+<a href='https://github.com/hasan-rizwan/Nike-Clone'>
+</a>
+  
+https://user-images.githubusercontent.com/64814635/179627275-924f632f-c2d6-4f95-b9dd-b704d2dbb740.mp4
+  
+<br>
+<br>
+<p>
+  <a href="https://github.com/hasan-rizwan/Nike-Clone" target="_blank">
+  
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+    
+<a href="https://nike-clone-by-hasan.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0047e6"/>
+</a>
+</p>
+<p><strong>React</strong> - A nike clone to implement react router. It navigates you through a collection of shoes and shows the details when navigated</p>
+<br>
 </div>
 </td>
 <td width="50%">
@@ -82,25 +83,25 @@ https://github.com/hasan-rizwan/hasan-rizwan/assets/64814635/0d28c7e8-2c6a-42bc-
 </p>
 <p><strong>React</strong> - In this tracker, there's a detailed chart that shows the amount of people that got infected, recovered and died globally or country specific.</p>
 </div>
-<h3 align="center" color="white">Nike Clone</h3>
-<div align="center" >
-<a href='https://github.com/hasan-rizwan/Nike-Clone'>
+  <h3 align="center" color="white">Calculator</h2>
+<div align="center" >  
+<a href='https://github.com/hasan-rizwan/Calculator'>
 </a>
-  
-https://user-images.githubusercontent.com/64814635/179627275-924f632f-c2d6-4f95-b9dd-b704d2dbb740.mp4
+ 
+https://user-images.githubusercontent.com/64814635/179628034-0ff3d229-75f4-4256-ab2d-b4c12fe8dfc9.mp4
   
 <br>
 <br>
 <p>
-  <a href="https://github.com/hasan-rizwan/Nike-Clone" target="_blank">
-  
+<a href="https://github.com/hasan-rizwan/Calculator" target="_blank">
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-    
-<a href="https://nike-clone-by-hasan.netlify.app/" target="_blank">
+</a>  
+<a href="https://calculator-by-hasan.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0047e6"/>
 </a>
 </p>
-<p><strong>React</strong> - A nike clone to implement react router. It navigates you through a collection of shoes and shows the details when navigated</p>
+<p><strong>React</strong> - A fancy-looking calculator that can perform all the basic operations.</p>
+<br>
 <br>
 </div>
 </table>
