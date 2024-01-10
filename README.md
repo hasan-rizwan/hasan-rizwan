@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://hasan-portfolio.web.app/">
+<a href="http://hasansportfolio.netlify.app/">
   <img src="./img/banner.gif"/>
 </a>
 </p>
@@ -8,7 +8,7 @@
 <p>&nbsp;</p>
 <h4 align='center'>I’m currently working on</h4>
 
-<p align='center'><a href="https://github.com/panacloud/bootcamp-2020">📂 15 projects by panacloud</a></p>
+<p align='center'><a href="https://www.coursera.org/professional-certificates/meta-front-end-developer"> 🏆 Completing Meta Certification</a></p>
 <p align='center'>🔥 bettering myself in the MERN STACK</p>
 <p align='center'>📫 Have a meeting with me on <a href="https://calendly.com/hasanrizwan/meeting-with-hasan-rizwan-dev">Calendly</a> | hasanrizwan6@gmail.com</p>
 <p align='center'>💬 Ask me about the MERN Stack and the reason why you and I exist.</p>
@@ -22,7 +22,7 @@
 <td width="50%">
 <h3 align="center" color="white">Text Utility</h3>
 <div align="center" >  
-<a href='http://text-utility-by-hasan.surge.sh/'> 
+<a href='https://text-utility-by-hasan.netlify.app/'> 
 </a>
   
  https://user-images.githubusercontent.com/64814635/179623328-e867c3fc-f9f5-4972-b105-920a1ad203e1.mp4
@@ -34,7 +34,7 @@
   
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
     
-<a href="http://text-utility-by-hasan.surge.sh/" target="_blank">
+<a href="https://text-utility-by-hasan.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0047e6"/>
 </a>
 </p>
@@ -55,7 +55,7 @@ https://user-images.githubusercontent.com/64814635/179627275-924f632f-c2d6-4f95-
   
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
     
-<a href="http://nike-clone.surge.sh/" target="_blank">
+<a href="https://nike-clone-by-hasan.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0047e6"/>
 </a>
 </p>
@@ -64,20 +64,20 @@ https://user-images.githubusercontent.com/64814635/179627275-924f632f-c2d6-4f95-
 </div>
 </td>
 <td width="50%">
-<h3 align="center" color="white">Covid 19 Tracker</h3>
+<h3 align="center" color="white">Quiz App</h3>
 <div align="center" >  
-<a href='https://github.com/hasan-rizwan/Covid-19-Tracker'>
+<a href='https://github.com/hasan-rizwan/Quiz-App-Typescript'>
 </a>
  
-https://user-images.githubusercontent.com/64814635/179624603-911c45c7-0d20-4fcd-899b-70cdd7c5c120.mp4
+https://github.com/hasan-rizwan/hasan-rizwan/assets/64814635/0d28c7e8-2c6a-42bc-a849-1e1102f95934
   
 <br>
 <br>
 <p>
-<a href="https://github.com/hasan-rizwan/Covid-19-Tracker" target="_blank">
+<a href="https://github.com/hasan-rizwan/Quiz-App-Typescript" target="_blank">
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
 </a>  
-<a href="http://covid-tracker-by-hasan.surge.sh/" target="_blank">
+<a href="https://quiz-app-by-hasan.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0047e6"/>
 </a>
 </p>
@@ -96,11 +96,11 @@ https://user-images.githubusercontent.com/64814635/179628034-0ff3d229-75f4-4256-
 <a href="https://github.com/hasan-rizwan/Calculator" target="_blank">
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
 </a>  
-<a href="http://calculator-by-hasan.surge.sh/" target="_blank">
+<a href="https://calculator-by-hasan.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0047e6"/>
 </a>
 </p>
-<p><strong>React</strong> - A fancy looking calculator that can perform all the basic operations.</p>
+<p><strong>React</strong> - A fancy-looking calculator that can perform all the basic operations.</p>
 <br>
 <br>
 </div>
@@ -113,7 +113,7 @@ https://user-images.githubusercontent.com/64814635/179628034-0ff3d229-75f4-4256-
 <a href="https://twitter.com/hasan_rizwan6" target="blank"><img align="center" src="./img/twitter.svg" alt="hasan_alpha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hasan-rizwan6" target="blank"><img align="center" src="./img/linked-in-alt.svg" alt="hasan-sheikh6" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hasanrizwan" target="blank"><img align="center" src="./img/hackerrank.svg" alt="hasanrizwan" height="30" width="40" /></a>
-<a href="https://discord.gg/#0382" target="blank"><img align="center" src="./img/discord.svg" alt="#0382" height="30" width="40" /></a>
+<a href="discordapp.com/users/506840561374724096" target="blank"><img align="center" src="./img/discord.svg" alt="#0382" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
@@ -122,7 +122,6 @@ https://user-images.githubusercontent.com/64814635/179628034-0ff3d229-75f4-4256-
 <h2>🏆 Github Stats</h2>
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=hasan-rizwan&theme=dark&show_icons=true" alt="Hasan's Github Stats" width="45%"/>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-rizwan&theme=dark" width="45%">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HASAN-RIZWAN&layout=compact&theme=dark&langs_count=10" width="40%">
 </p>
 
